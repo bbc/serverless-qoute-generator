@@ -1,0 +1,11 @@
+{
+  "name": "serverless-qoute-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bbc/serverless-qoute-generator.git",
+  "author": "Moudud Abu <moududabu2017@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-offline": "^6.1.5"
+  }
+}
