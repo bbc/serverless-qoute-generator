@@ -1,0 +1,1 @@
+# serverless-qoute-generator
